@@ -1,6 +1,6 @@
 # **SJTU 2019 Sping CS356 操作系统课程设计**
 
-## **Text Book**
+## **Textbook**
 Operating System Concepts (10th) ，A. Silberschatz，P. Galvin，G. Gagne，ISBN: 978-7-111-60436-5
 ## **Project**
 * **Project 1**: Introduction to Linux Kernel Modules  
