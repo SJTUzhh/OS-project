@@ -1,4 +1,4 @@
-# **SJTU CS356 2019 Sping 操作系统课程设计**
+# **SJTU 2019 Sping CS356 操作系统课程设计**
 
 ## **Text Book**
 Operating System Concepts (10th) ，A. Silberschatz，P. Galvin，G. Gagne，ISBN: 978-7-111-60436-5
