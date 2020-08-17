@@ -8,14 +8,14 @@ Operating System Concepts (10th) ，A. Silberschatz，P. Galvin，G. Gagne，ISB
   At the end of Chapter 2 (P1-P7, textbook)
 
 * **Project 2**
-  * Project 2-1: UNIX Shell
-  * Project 2-2: Linux Kernel Module for Task Information 
+  * 2-1: UNIX Shell
+  * 2-2: Linux Kernel Module for Task Information 
 
   At the end of Chapter 3(P12-P22, textbook)
 
 * **Project 3**
-  * Project 3-1: Multithreaded Sorting Application
-  * Project 3-2: Fork-Join Sorting Application  
+  * 3-1: Multithreaded Sorting Application
+  * 3-2: Fork-Join Sorting Application  
 
   At the end of Chapter 4(P25-P28, textbook)
 
@@ -24,8 +24,8 @@ Operating System Concepts (10th) ，A. Silberschatz，P. Galvin，G. Gagne，ISB
   At the end of Chapter 5(P29-P31, textbook)
 
 * **Project 5**
-  * Project 5-1: Designing a Thread Pool
-  * Project 5-2: The Producer – Consumer Problem  
+  * 5-1: Designing a Thread Pool
+  * 5-2: The Producer – Consumer Problem  
   
   At the end of Chapter 7(P35-P44, textbook)
 
@@ -38,5 +38,5 @@ Operating System Concepts (10th) ，A. Silberschatz，P. Galvin，G. Gagne，ISB
   At the end of Chapter 9(P48-P50, textbook)
 
 * **Project 8**
-* Designing a Virtual Memory Manager  
+  * Designing a Virtual Memory Manager  
   At the end of Chapter 10(P51-P54, textbook)
