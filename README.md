@@ -4,7 +4,7 @@
 Operating System Concepts (10th) ，A. Silberschatz，P. Galvin，G. Gagne，ISBN: 978-7-111-60436-5
 ## **Project**
 * **Project 1**
-  * Introduction to Linux Kernel Modules  
+  * Introduction to Linux Kernel Modules     
   At the end of Chapter 2 (P1-P7, textbook)
 
 * **Project 2**
